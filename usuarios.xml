@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<usuarios>
+    <usuario>
+        <nombre>Test</nombre>
+    </usuario>
+    <usuario>
+        <nombre>Tomas</nombre>
+    </usuario>
+</usuarios>
